@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lokeshkummar" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkummar?logo=twitter&style=for-the-badge" alt="lokeshkummar" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 After Completing FrontEnd, I’m currently learning **BackEnd Development**
   
 - 🔭 Visit my recent project [Image Background Remover](https://rembgg.netlify.app/)
 
