@@ -9,7 +9,7 @@
 
 - 🔭 another project [NKHR Solutions Agency Website](https://nkhr-solutions.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-ten-pi.vercel.app/](https://portfolio-website-ten-pi.vercel.app/)
+- 👨‍💻 Visit my portfolio website [https://portfolio-website-ten-pi.vercel.app/](https://portfolio-website-ten-pi.vercel.app/)
 
 - 📫 How to reach me **lokeshkumar.080806@gmail.com**
 
