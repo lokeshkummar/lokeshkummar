@@ -4,8 +4,10 @@
 <p align="left"> <a href="https://twitter.com/lokeshkummar" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkummar?logo=twitter&style=for-the-badge" alt="lokeshkummar" /></a> </p>
 
 - 🌱 I’m currently learning **Front-End Development**
+  
+- 🔭 Visit my recent project [Image Background Remover](https://rembgg.netlify.app/)
 
-- 🔭 I’m currently working on [NKHR Solutions Agency Website](https://nkhr-solutions.netlify.app/)
+- 🔭 another project [NKHR Solutions Agency Website](https://nkhr-solutions.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-ten-pi.vercel.app/](https://portfolio-website-ten-pi.vercel.app/)
 
