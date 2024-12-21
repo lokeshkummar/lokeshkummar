@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumar</h1>
-<h3 align="center">A passionate frontend developer from Bulandshahr UttarPradesh India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/lokeshkummar" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkummar?logo=twitter&style=for-the-badge" alt="lokeshkummar" /></a> </p>
 
