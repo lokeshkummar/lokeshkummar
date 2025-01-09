@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokesh Kumar</h1>
+<h1 align="center">Hi👋, I'm Lokesh Kumar</h1>
 <p align="left"> <a href="https://twitter.com/lokeshkummar" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkummar?logo=twitter&style=for-the-badge" alt="lokeshkummar" /></a> </p>
 
 - 🌱 After Completing FrontEnd, currently learning **BackEnd Development**
