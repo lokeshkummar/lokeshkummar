@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumar</h1>
 <p align="left"> <a href="https://twitter.com/lokeshkummar" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkummar?logo=twitter&style=for-the-badge" alt="lokeshkummar" /></a> </p>
 
-- 🌱 After Completing FrontEnd, I’m currently learning **BackEnd Development**
+- 🌱 After Completing FrontEnd, currently learning **BackEnd Development**
   
-- 🔭 Visit my recent project [Image BG Remover](https://rembgg.netlify.app/)
+- Visit my recent project [Image BG Remover](https://rembgg.netlify.app/)
 
-- 🔭 another project [NKHR Solutions](https://nkhr-solutions.netlify.app/)
+- Another project [NKHR Solutions](https://nkhr-solutions.netlify.app/)
 
-- 👨‍💻 Visit my [Portfolio](https://portfolio-website-ten-pi.vercel.app/)
+- Visit my [Portfolio](https://portfolio-website-ten-pi.vercel.app/)
 
-- 📫 Reach me via [Email](mailto:lokeshkumar.080806@gmail.com)
+- Reach me via [Email](mailto:lokeshkumar.080806@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
