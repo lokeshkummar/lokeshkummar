@@ -7,7 +7,7 @@
 
 - Another project [NKHR Solutions](https://nkhr-solutions.netlify.app/)
 
-- Visit my [Portfolio](https://portfolio-website-ten-pi.vercel.app/)
+- Visit my [Portfolio](https://lokeshkummar.vercel.app/)
 
 - Reach me via [Email](mailto:lokeshkumar.080806@gmail.com)
 
