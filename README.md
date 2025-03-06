@@ -3,9 +3,9 @@
 
 - 🌱 After Completing FrontEnd, currently learning **BackEnd Development**
   
-- Visit my recent project [Image BG Remover](https://rembgg.netlify.app/)
+- Visit my recent project [OptiJS - AI Code Reviewer](https://optijs.vercel.app/)
 
-- Another project [NKHR Solutions](https://nkhr-solutions.netlify.app/)
+- Another project [Image BG Remover](https://rembgg.netlify.app/)
 
 - Visit my [Portfolio](https://lokeshkummar.vercel.app/)
 
